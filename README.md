@@ -1,6 +1,5 @@
 # NC Challenge for Data Scientist
 
-Natural Cycles Challenge
 The .csv file contains data from a set of women who have been using NCº Plan Pregnancy to try to conceive. It includes the duration of the attempt to conceive (observation period, or exposure) expressed as a number of menstrual cycles, and the outcome of the attempt, i.e. whether the woman became pregnant or not. An unsuccessful attempt to conceive ends with the woman resuming contraception, or interrupting the usage of NC.
 
 The dataset contains the following features:
